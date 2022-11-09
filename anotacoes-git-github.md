@@ -2,6 +2,7 @@
 * *Criar novo repositório:* **git init**
 * *Comitar um arquivo:* **git commit**
 * *Criar uma pasta:* **mkdir**
+
 [Para saber mais...](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
 # Tópicos fundamentais para entender o funcionamento do Git
